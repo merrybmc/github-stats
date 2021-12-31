@@ -1,6 +1,5 @@
 # GitHub Stats Visualizations
-> Generate visualizations of GitHub user and repository statistics using GitHub
-Actions.
+> Generate visualizations of GitHub user and repository statistics using GitHub Actions.
 
 <br/>
 
@@ -10,7 +9,7 @@ Actions.
 
 <br/>
 
-> NOTE: This repository is my extension of the repo [jstrieb/github-stats](https://github.com/jstrieb/github-stats) And [rahul-jha98/github-stats-transparent](https://github.com/rahul-jha98/github-stats-transparent).
+> NOTE: This repository is my extension of [jstrieb/github-stats](https://github.com/jstrieb/github-stats) And [rahul-jha98/github-stats-transparent](https://github.com/rahul-jha98/github-stats-transparent).
 
 
 <br/>
