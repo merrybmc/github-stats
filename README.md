@@ -30,5 +30,3 @@ Actions.
 </a>
 
 <br/>
-
-[Installation](https://github.com/rahul-jha98/github-stats-transparent)
