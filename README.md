@@ -1,4 +1,4 @@
-# GitHub Stats Visualizations
+# GitHub Stats
 > Generate visualizations of GitHub user and repository statistics using GitHub Actions.
 
 <br/>
