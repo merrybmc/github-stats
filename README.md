@@ -3,7 +3,7 @@
 
 <br/>
 
-![](https://raw.githubusercontent.com/devpla/github-stats/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/merrybmc/github-stats/output/generated/languages.svg)
 
 
 
